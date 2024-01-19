@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
-- 🔭 I’m currently looking for **a 5-6 months intership in project management, UI/UX design or web dev.**
-
 - 🌱 I’m currently learning **UI/UX design.**
 
 - 💬 Ask me about **my work experience as a web developer or my projects as Product Owner and UI/UX designer.**
