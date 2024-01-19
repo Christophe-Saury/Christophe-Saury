@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate french-american web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **going through the google UI/UX design course.**
+- 🔭 I’m currently looking for **a 5-6 months intership in project management, UI/UX design or web dev.**
 
-- 🌱 I’m currently learning **project management, UI/UX design and web dev.**
+- 🌱 I’m currently learning **UI/UX design.**
 
-- 💬 Ask me about **my work experience as a web developer.**
+- 💬 Ask me about **my work experience as a web developer or my projects as Product Owner and UI/UX designer.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA](https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA)
 
