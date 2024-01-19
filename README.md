@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://static.vecteezy.com/system/resources/previews/023/785/364/non_2x/web-development-word-concepts-blue-banner-digital-technology-infographics-with-editable-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg)
+<--![MasterHead](https://static.vecteezy.com/system/resources/previews/023/785/364/non_2x/web-development-word-concepts-blue-banner-digital-technology-infographics-with-editable-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg) -->
 <h1 align="center">Hi 👋, I'm Christophe SAURY</h1>
 <h3 align="center">A passionate french-american web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
