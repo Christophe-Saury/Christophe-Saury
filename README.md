@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - Exchange Student @ Sogang University - Seoul, South Korea (2023 : 5 months)
   - Exchange Student @ CVUT - Prague, Czech Republic (2021 : 5 months)
 
-- 🌱 My work experience :
+- :office: My work experience :
   - Web Developer @ Marine Nationale (2022-2023 : 6 months)
   - IT support and customer service contractor  @ Numéris (Interim Agency) (2021-2022 : 11 months)
   - Crew Member @ McDonald's (2021 : 5 months)
