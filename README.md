@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **UI/UX design.**
 
-- 🌱 My education :
+- :school: My education :
   - Computer Science Student @ ISEP - Paris, France (2019-2024)
   - Exchange Student @ Sogang University - Seoul, South Korea (2023 : 5 months)
   - Exchange Student @ CVUT - Prague, Czech Republic (2021 : 5 months)
