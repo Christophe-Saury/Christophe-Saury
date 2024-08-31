@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Christophe SAURY</h1>
-<h2 align="center">A passionate french-american web developer.</h2>
+<h2 align="center">A passionate French-American web developer.</h2>
 
 <h3 align="center">Looking for a 5-6 months intership in project management, UI/UX design or web dev</h3>
 
