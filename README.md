@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Christophe SAURY</h1>
-<h2 align="center">A passionate French-American web developer.</h2>
+<h2 align="center">A passionate French-American Web Developer.</h2>
 
-<h3 align="center">Looking for a 5-6 months intership in project management, UI/UX design or web dev</h3>
+<h3 align="center">Looking for a job in Web Development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   - Exchange Student @ CVUT - Prague, Czech Republic (2021 : 5 months)
 
 - :office: My work experience :
+  - IT Project Lead @ Devoteam (2024 : 6 months)
   - Web Developer @ Marine Nationale (2022-2023 : 6 months)
   - IT support and customer service contractor  @ Numéris (Interim Agency) (2021-2022 : 11 months)
   - Crew Member @ McDonald's (2021 : 5 months)
