@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Christophe SAURY</h1>
-<h2 align="center">A passionate French-American Web Developer.</h2>
+<h2 align="center">A Passionate French-American Web Developer.</h2>
 
 <h3 align="center">Looking for a job in Web Development</h3>
 
