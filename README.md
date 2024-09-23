@@ -81,15 +81,15 @@ Here are some ideas to get you started:
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<h6 align="left">Other:</h6>
+<h6 align="left">Other (Design, Electronics, Machine Learning):</h6>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</p><br/>
+</p>
 
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-</p><br/>
+</p>
 
 
 <p align="left">
