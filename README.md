@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 - 💬 Relevant projects :
   - UI/UX Design Project - SEBRA - Mobile data centralization app
+    https://www.figma.com/design/BWAD9DZzgBcXzpEomuxzqc/SEBRA?node-id=0-1&node-type=canvas&t=59D1KgQvyypM6D0n-0
   - Product Owner Project - Mobile app for comparing skincare products
   - APP G9D : Electronics + Web dev Project - IOT solution for employee health
   - Java algorithms and web dev project - Tailored Tourist Tours - Travel personalization website for tourists
