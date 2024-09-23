@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 📫 How to reach me **christophesaury23@gmail.com**
+  - 📫 How to reach me **christophesaury23@gmail.com**   <br/>
 <a href="https://linkedin.com/in/christophe saury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophe saury" height="30" width="40" /></a>
 </p>
 
