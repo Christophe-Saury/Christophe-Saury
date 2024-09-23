@@ -45,11 +45,12 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences in more detail : [https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA](https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA)
 
-- 📫 How to reach me **christophesaury23@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **christophesaury23@gmail.com**
 <a href="https://linkedin.com/in/christophe saury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophe saury" height="30" width="40" /></a>
 </p>
 
