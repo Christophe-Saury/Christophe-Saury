@@ -24,16 +24,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **UI/UX design.**
 
-- :school: My education :
-  - Computer Science Student @ ISEP - Paris, France (2019-2024)
-  - Exchange Student @ Sogang University - Seoul, South Korea (2023 : 5 months)
-  - Exchange Student @ CVUT - Prague, Czech Republic (2021 : 5 months)
-
 - :office: My work experience :
   - IT Project Lead @ Devoteam (2024 : 6 months)
   - Web Developer @ Marine Nationale (2022-2023 : 6 months)
   - IT support and customer service contractor  @ Numéris (Interim Agency) (2021-2022 : 11 months)
   - Crew Member @ McDonald's (2021 : 5 months)
+
 
 - 💬 Relevant projects :
   - UI/UX Design Project - SEBRA - Mobile data centralization app <br/>
@@ -42,6 +38,11 @@ Here are some ideas to get you started:
   - APP G9D : Electronics + Web dev Project - IOT solution for employee health
   - Java algorithms and web dev project - Tailored Tourist Tours - Travel personalization website for tourists
   - UX Design Project - Work Life Balance Indicator
+ 
+- :school: My education :
+  - Computer Science Student @ ISEP - Paris, France (2019-2024)
+  - Exchange Student @ Sogang University - Seoul, South Korea (2023 : 5 months)
+  - Exchange Student @ CVUT - Prague, Czech Republic (2021 : 5 months)
 
 - 📄 Know about my experiences in more detail : [https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA](https://www.linkedin.com/in/christophe-saury-fr-usa/overlay/1705480640001/single-media-viewer/?profileId=ACoAACwlTpMBFwYSNCG-_qmSkF8hh5dUYBCstiA)
 
