@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   - Product Owner Project - Mobile app for comparing skincare products
   - APP G9D : Electronics + Web dev Project - IOT solution for employee health
   - Java algorithms and web dev project - Tailored Tourist Tours - Travel personalization website for tourists
+  - Yokai Board Game in Java
   - UX Design Project - Work Life Balance Indicator
  
 - :school: My education :
