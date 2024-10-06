@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 - 💬 Relevant projects :
+  - Orthos : Web app meant to manage the 400k + demand for access to the Brest Naval Base <br/>
   - UI/UX Design Project - SEBRA - Mobile data centralization app <br/>
     https://www.figma.com/design/BWAD9DZzgBcXzpEomuxzqc/SEBRA?node-id=0-1&node-type=canvas&t=59D1KgQvyypM6D0n-0
   - Product Owner Project - Mobile app for comparing skincare products
