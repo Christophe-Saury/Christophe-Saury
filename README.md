@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **UI/UX design.**
 
 - :office: My work experience :
+  - Full-Stack Java/Angular Developer @ Wezen (Nov 2024 -> Now)
   - IT Project Lead @ Devoteam (2024 : 6 months)
   - Web Developer @ Marine Nationale (2022-2023 : 6 months)
   - IT support and customer service contractor  @ Numéris (Interim Agency) (2021-2022 : 11 months)
